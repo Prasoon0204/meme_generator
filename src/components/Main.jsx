@@ -3,7 +3,7 @@ import '../App.css';
 const Main = () => {
   const [meme, setMeme] = useState({
     topText: "One does not simply",
-    bottomText: "Walk into mordor",
+    bottomText: "Create a rest api",
     imageUrl: "http://i.imgflip.com/1bij.jpg",
   })
 
